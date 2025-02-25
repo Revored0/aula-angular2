@@ -1,0 +1,12 @@
+.cardd{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(43, 226, 43);
+    margin-left: 500px;
+    padding-top: 50px;
+}
+
+.botao{
+    background-color: white;
+    margin-left: 10px;
+}
